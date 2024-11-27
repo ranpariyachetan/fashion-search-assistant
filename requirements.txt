@@ -1,0 +1,6 @@
+configs==3.0.3
+llama_index==0.12.2
+openai==1.55.2
+pandas==2.2.3
+python-dotenv==1.0.1
+streamlit==1.40.2
